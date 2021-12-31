@@ -1,0 +1,1714 @@
+[   26.701552] 1fa0:                   76f14998 00000000 01200011 00000000 00000000 00000000
+[   26.701565] 1fc0: 76f14998 00000000 00000002 00000078 00000000 76ed1000 76f14df0 00000100
+[   26.701574] 1fe0: 76f14930 7eac81e8 76e2675c 76e26788
+[   26.703239] [+] process: resolvconf
+[   26.703256] CPU: 3 PID: 482 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   26.703266] Hardware name: BCM2835
+[   26.703297] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   26.703316] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   26.703335] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   26.703350] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   26.703366] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   26.703373] Exception stack(0xb3201fa8 to 0xb3201ff0)
+[   26.703385] 1fa0:                   76f14998 00000000 01200011 00000000 00000000 00000000
+[   26.703397] 1fc0: 76f14998 00000000 00000002 00000078 00000000 76ed1000 76f14df0 00000100
+[   26.703406] 1fe0: 76f14930 7eac81f8 76e2675c 76e26788
+[   26.705046] [+] process: resolvconf
+[   26.705065] CPU: 3 PID: 482 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   26.705070] Hardware name: BCM2835
+[   26.705101] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   26.705120] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   26.705139] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   26.705153] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   26.705170] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   26.705177] Exception stack(0xb3201fa8 to 0xb3201ff0)
+[   26.705188] 1fa0:                   76f14998 00000000 01200011 00000000 00000000 00000000
+[   26.705201] 1fc0: 76f14998 00000000 00000002 00000078 00000000 76ed1000 76f14df0 00000100
+[   26.705210] 1fe0: 76f14930 7eac8208 76e2675c 76e26788
+[   26.707883] [+] process: resolvconf
+[   26.707902] CPU: 3 PID: 482 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   26.707907] Hardware name: BCM2835
+[   26.707943] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   26.707963] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   26.707983] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   26.707998] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   26.708014] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   26.708026] Exception stack(0xb3201fa8 to 0xb3201ff0)
+[   26.708038] 1fa0:                   76f14998 00000000 01200011 00000000 00000000 00000000
+[   26.708051] 1fc0: 76f14998 00000000 00000002 00000078 00000000 76ed1000 76f14df0 00000100
+[   26.708060] 1fe0: 76f14930 7eac8218 76e2675c 76e26788
+[   26.709843] [+] process: resolvconf
+[   26.709861] CPU: 3 PID: 482 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   26.709866] Hardware name: BCM2835
+[   26.709898] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   26.709916] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   26.709936] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   26.709950] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   26.709966] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   26.709973] Exception stack(0xb3201fa8 to 0xb3201ff0)
+[   26.709984] 1fa0:                   76f14998 00000000 01200011 00000000 00000000 00000000
+[   26.709997] 1fc0: 76f14998 00000000 00000002 00000078 00000000 76ed1000 76f14df0 00000100
+[   26.710009] 1fe0: 76f14930 7eac8228 76e2675c 76e26788
+[   26.711905] [+] process: resolvconf
+[   26.711922] CPU: 3 PID: 482 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   26.711927] Hardware name: BCM2835
+[   26.711959] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   26.711977] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   26.711997] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   26.712011] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   26.712030] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   26.712037] Exception stack(0xb3201fa8 to 0xb3201ff0)
+[   26.712048] 1fa0:                   76f14998 00000000 01200011 00000000 00000000 00000000
+[   26.712061] 1fc0: 76f14998 00000000 00000002 00000078 00000000 76ed1000 76f14df0 00000100
+[   26.712070] 1fe0: 76f14930 7eac8238 76e2675c 76e26788
+[   26.713802] [+] process: resolvconf
+[   26.713821] CPU: 3 PID: 482 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   26.713826] Hardware name: BCM2835
+[   26.713859] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   26.713878] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   26.713898] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   26.713912] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   26.713927] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   26.713934] Exception stack(0xb3201fa8 to 0xb3201ff0)
+[   26.713946] 1fa0:                   76f14998 00000000 01200011 00000000 00000000 00000000
+[   26.713959] 1fc0: 76f14998 00000000 00000002 00000078 00000000 76ed1000 76f14df0 00000100
+[   26.713968] 1fe0: 76f14930 7eac8248 76e2675c 76e26788
+[   26.721089] [+] process: resolvconf
+[   26.721110] CPU: 1 PID: 477 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   26.721116] Hardware name: BCM2835
+[   26.721151] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   26.721170] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   26.721190] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   26.721205] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   26.721221] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   26.721228] Exception stack(0xb7b83fa8 to 0xb7b83ff0)
+[   26.721240] 3fa0:                   76f14998 00000000 01200011 00000000 00000000 00000000
+[   26.721253] 3fc0: 76f14998 00000000 00000000 00000078 00000000 76ed1000 76f14df0 000364ec
+[   26.721262] 3fe0: 76f14930 7eac8788 76e2675c 76e26788
+[   26.724380] [+] process: resolvconf
+[   26.724400] CPU: 2 PID: 496 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   26.724411] Hardware name: BCM2835
+[   26.724442] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   26.724461] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   26.724480] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   26.724496] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   26.724511] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   26.724518] Exception stack(0xb688ffa8 to 0xb688fff0)
+[   26.724530] ffa0:                   76f14998 00000000 01200011 00000000 00000000 00000000
+[   26.724542] ffc0: 76f14998 00000000 00000002 00000078 00000000 76ed1000 76f14df0 00000000
+[   26.724551] ffe0: 76f14930 7eac82b8 76e2675c 76e26788
+[   26.744488] [+] process: resolvconf
+[   26.744508] CPU: 2 PID: 496 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   26.744513] Hardware name: BCM2835
+[   26.744548] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   26.744567] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   26.744587] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   26.744602] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   26.744618] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   26.744626] Exception stack(0xb688ffa8 to 0xb688fff0)
+[   26.744637] ffa0:                   76f14998 00000000 01200011 00000000 00000000 00000000
+[   26.744650] ffc0: 76f14998 00000000 00000002 00000078 00000000 76ed1000 76f14df0 00000100
+[   26.744659] ffe0: 76f14930 7eac7fc0 76e2675c 76e26788
+[   26.747122] [+] process: resolvconf
+[   26.747142] CPU: 2 PID: 496 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   26.747148] Hardware name: BCM2835
+[   26.747186] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   26.747206] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   26.747227] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   26.747243] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   26.747258] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   26.747265] Exception stack(0xb688ffa8 to 0xb688fff0)
+[   26.747277] ffa0:                   76f14998 00000000 01200011 00000000 00000000 00000000
+[   26.747290] ffc0: 76f14998 00000000 00000000 00000078 00000000 76ed1000 76f14df0 00024414
+[   26.747299] ffe0: 76f14930 7eac80d0 76e2675c 76e26788
+[   26.760230] [+] process: resolvconf
+[   26.760243] CPU: 1 PID: 477 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   26.760245] Hardware name: BCM2835
+[   26.760267] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   26.760277] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   26.760288] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   26.760296] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   26.760305] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   26.760308] Exception stack(0xb7b83fa8 to 0xb7b83ff0)
+[   26.760314] 3fa0:                   76f14998 00000000 01200011 00000000 00000000 00000000
+[   26.760321] 3fc0: 76f14998 00000000 00000000 00000078 00000000 76ed1000 76f14df0 000364ec
+[   26.760325] 3fe0: 76f14930 7eac8788 76e2675c 76e26788
+[   26.762890] [+] process: resolvconf
+[   26.762904] CPU: 3 PID: 500 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   26.762906] Hardware name: BCM2835
+[   26.762925] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   26.762934] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   26.762945] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   26.762952] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   26.762960] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   26.762964] Exception stack(0xb3201fa8 to 0xb3201ff0)
+[   26.762970] 1fa0:                   76f14998 00000000 01200011 00000000 00000000 00000000
+[   26.762976] 1fc0: 76f14998 00000000 00000002 00000078 00000000 76ed1000 76f14df0 00000100
+[   26.762981] 1fe0: 76f14930 7eac8188 76e2675c 76e26788
+[   26.763883] [+] process: resolvconf
+[   26.763893] CPU: 3 PID: 500 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   26.763896] Hardware name: BCM2835
+[   26.763914] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   26.763923] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   26.763933] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   26.763940] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   26.763948] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   26.763951] Exception stack(0xb3201fa8 to 0xb3201ff0)
+[   26.763957] 1fa0:                   76f14998 00000000 01200011 00000000 00000000 00000000
+[   26.763963] 1fc0: 76f14998 00000000 00000002 00000078 00000000 76ed1000 76f14df0 00000000
+[   26.763968] 1fe0: 76f14930 7eac81f0 76e2675c 76e26788
+[   26.765089] [+] process: resolvconf
+[   26.765100] CPU: 3 PID: 500 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   26.765103] Hardware name: BCM2835
+[   26.765121] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   26.765130] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   26.765140] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   26.765148] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   26.765156] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   26.765159] Exception stack(0xb3201fa8 to 0xb3201ff0)
+[   26.765165] 1fa0:                   76f14998 00000000 01200011 00000000 00000000 00000000
+[   26.765172] 1fc0: 76f14998 00000000 00000002 00000078 00000000 76ed1000 76f14df0 00000100
+[   26.765176] 1fe0: 76f14930 7eac8228 76e2675c 76e26788
+[   26.765580] [+] process: resolvconf
+[   26.765587] CPU: 0 PID: 503 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   26.765590] Hardware name: BCM2835
+[   26.765602] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   26.765610] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   26.765619] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   26.765627] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   26.765634] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   26.765637] Exception stack(0xb3209fa8 to 0xb3209ff0)
+[   26.765643] 9fa0:                   76f14998 00000000 01200011 00000000 00000000 00000000
+[   26.765650] 9fc0: 76f14998 00000000 00000000 00000078 00000000 76ed1000 76f14df0 00ecc47c
+[   26.765654] 9fe0: 76f14930 7eac81d0 76e2675c 76e26788
+[   26.765880] [+] process: resolvconf
+[   26.765891] CPU: 0 PID: 503 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   26.765894] Hardware name: BCM2835
+[   26.765904] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   26.765913] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   26.765927] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   26.765939] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   26.765947] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   26.765950] Exception stack(0xb3209fa8 to 0xb3209ff0)
+[   26.765956] 9fa0:                   76f14998 00000000 01200011 00000000 00000000 00000000
+[   26.765962] 9fc0: 76f14998 00000000 00000000 00000078 00000000 76ed1000 76f14df0 00ecc524
+[   26.765967] 9fe0: 76f14930 7eac81d0 76e2675c 76e26788
+[   26.768517] [+] process: resolvconf
+[   26.768530] CPU: 3 PID: 504 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   26.768533] Hardware name: BCM2835
+[   26.768554] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   26.768565] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   26.768578] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   26.768586] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   26.768595] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   26.768598] Exception stack(0xb5d91fa8 to 0xb5d91ff0)
+[   26.768604] 1fa0:                   76f14998 00000000 01200011 00000000 00000000 00000000
+[   26.768610] 1fc0: 76f14998 00000000 00000002 00000078 00000000 76ed1000 76f14df0 00000000
+[   26.768615] 1fe0: 76f14930 7eac7dc8 76e2675c 76e26788
+[   26.771088] [+] process: resolvconf
+[   26.771100] CPU: 3 PID: 500 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   26.771103] Hardware name: BCM2835
+[   26.771124] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   26.771135] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   26.771146] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   26.771153] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   26.771162] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   26.771166] Exception stack(0xb3201fa8 to 0xb3201ff0)
+[   26.771172] 1fa0:                   76f14998 00000000 01200011 00000000 00000000 00000000
+[   26.771178] 1fc0: 76f14998 00000000 00000002 00000078 00000000 76ed1000 76f14df0 00000100
+[   26.771182] 1fe0: 76f14930 7eac8298 76e2675c 76e26788
+[   26.773417] [+] process: resolvconf
+[   26.773428] CPU: 3 PID: 500 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   26.773430] Hardware name: BCM2835
+[   26.773451] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   26.773463] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   26.773473] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   26.773481] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   26.773489] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   26.773493] Exception stack(0xb3201fa8 to 0xb3201ff0)
+[   26.773499] 1fa0:                   76f14998 00000000 01200011 00000000 00000000 00000000
+[   26.773505] 1fc0: 76f14998 00000000 00000002 00000078 00000000 76ed1000 76f14df0 00000100
+[   26.773510] 1fe0: 76f14930 7eac8298 76e2675c 76e26788
+[   26.774591] [+] process: resolvconf
+[   26.774603] CPU: 3 PID: 500 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   26.774605] Hardware name: BCM2835
+[   26.774626] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   26.774636] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   26.774647] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   26.774654] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   26.774663] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   26.774667] Exception stack(0xb3201fa8 to 0xb3201ff0)
+[   26.774673] 1fa0:                   76f14998 00000000 01200011 00000000 00000000 00000000
+[   26.774679] 1fc0: 76f14998 00000000 00000000 00000078 00000000 76ed1000 76f14df0 0003855c
+[   26.774684] 1fe0: 76f14930 7eac8430 76e2675c 76e26788
+[   26.779951] [+] process: resolvconf
+[   26.779963] CPU: 3 PID: 500 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   26.779966] Hardware name: BCM2835
+[   26.779988] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   26.779999] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   26.780011] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   26.780019] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   26.780027] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   26.780031] Exception stack(0xb3201fa8 to 0xb3201ff0)
+[   26.780037] 1fa0:                   76f14998 00000000 01200011 00000000 00000000 00000000
+[   26.780043] 1fc0: 76f14998 00000000 00000000 00000078 00000000 76ed1000 76f14df0 00024414
+[   26.780048] 1fe0: 76f14930 7eac8130 76e2675c 76e26788
+[   26.787021] [+] process: resolvconf
+[   26.787033] CPU: 1 PID: 477 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   26.787036] Hardware name: BCM2835
+[   26.787058] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   26.787068] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   26.787079] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   26.787087] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   26.787095] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   26.787099] Exception stack(0xb7b83fa8 to 0xb7b83ff0)
+[   26.787105] 3fa0:                   76f14998 00000000 01200011 00000000 00000000 00000000
+[   26.787113] 3fc0: 76f14998 00000000 00000000 00000078 00000000 76ed1000 76f14df0 000364ec
+[   26.787117] 3fe0: 76f14930 7eac8788 76e2675c 76e26788
+[   26.792034] [+] process: resolvconf
+[   26.792046] CPU: 1 PID: 477 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   26.792049] Hardware name: BCM2835
+[   26.792069] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   26.792079] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   26.792090] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   26.792098] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   26.792106] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   26.792111] Exception stack(0xb7b83fa8 to 0xb7b83ff0)
+[   26.792117] 3fa0:                   76f14998 00000000 01200011 00000000 00000000 00000000
+[   26.792123] 3fc0: 76f14998 00000000 00000000 00000078 00000000 76ed1000 76f14df0 000364ec
+[   26.792128] 3fe0: 76f14930 7eac8788 76e2675c 76e26788
+[   26.794716] [+] process: resolvconf
+[   26.794729] CPU: 1 PID: 512 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   26.794732] Hardware name: BCM2835
+[   26.794755] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   26.794766] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   26.794777] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   26.794785] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   26.794794] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   26.794800] Exception stack(0xb83cffa8 to 0xb83cfff0)
+[   26.794806] ffa0:                   76f14998 00000000 01200011 00000000 00000000 00000000
+[   26.794812] ffc0: 76f14998 00000000 00000002 00000078 00000000 76ed1000 76f14df0 00000100
+[   26.794817] ffe0: 76f14930 7eac7fc0 76e2675c 76e26788
+[   26.797043] [+] process: resolvconf
+[   26.797055] CPU: 1 PID: 477 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   26.797057] Hardware name: BCM2835
+[   26.797079] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   26.797090] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   26.797104] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   26.797112] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   26.797121] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   26.797125] Exception stack(0xb7b83fa8 to 0xb7b83ff0)
+[   26.797131] 3fa0:                   76f14998 00000000 01200011 00000000 00000000 00000000
+[   26.797137] 3fc0: 76f14998 00000000 00000000 00000078 00000000 76ed1000 76f14df0 000364ec
+[   26.797141] 3fe0: 76f14930 7eac8788 76e2675c 76e26788
+[   26.798981] [+] process: resolvconf
+[   26.798994] CPU: 2 PID: 514 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   26.798996] Hardware name: BCM2835
+[   26.799017] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   26.799027] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   26.799038] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   26.799046] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   26.799054] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   26.799057] Exception stack(0xb31fbfa8 to 0xb31fbff0)
+[   26.799064] bfa0:                   76f14998 00000000 01200011 00000000 00000000 00000000
+[   26.799072] bfc0: 76f14998 00000000 00000002 00000078 00000000 76ed1000 76f14df0 00000100
+[   26.799077] bfe0: 76f14930 7eac7fc0 76e2675c 76e26788
+[   26.801638] [+] process: resolvconf
+[   26.801651] CPU: 0 PID: 514 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   26.801654] Hardware name: BCM2835
+[   26.801677] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   26.801688] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   26.801699] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   26.801707] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   26.801715] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   26.801719] Exception stack(0xb31fbfa8 to 0xb31fbff0)
+[   26.801725] bfa0:                   76f14998 00000000 01200011 00000000 00000000 00000000
+[   26.801731] bfc0: 76f14998 00000000 00000002 00000078 00000000 76ed1000 76f14df0 00000100
+[   26.801735] bfe0: 76f14930 7eac8298 76e2675c 76e26788
+[   26.805169] [+] process: resolvconf
+[   26.805180] CPU: 0 PID: 514 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   26.805183] Hardware name: BCM2835
+[   26.805205] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   26.805215] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   26.805227] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   26.805234] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   26.805243] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   26.805247] Exception stack(0xb31fbfa8 to 0xb31fbff0)
+[   26.805253] bfa0:                   76f14998 00000000 01200011 00000000 00000000 00000000
+[   26.805259] bfc0: 76f14998 00000000 00000002 00000078 00000000 76ed1000 76f14df0 00000100
+[   26.805264] bfe0: 76f14930 7eac8298 76e2675c 76e26788
+[   26.807582] [+] process: resolvconf
+[   26.807596] CPU: 0 PID: 514 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   26.807599] Hardware name: BCM2835
+[   26.807621] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   26.807632] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   26.807644] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   26.807652] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   26.807660] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   26.807664] Exception stack(0xb31fbfa8 to 0xb31fbff0)
+[   26.807670] bfa0:                   76f14998 00000000 01200011 00000000 00000000 00000000
+[   26.807676] bfc0: 76f14998 00000000 00000000 00000078 00000000 76ed1000 76f14df0 00024414
+[   26.807681] bfe0: 76f14930 7eac7eb0 76e2675c 76e26788
+[   26.814101] [+] process: resolvconf
+[   26.814116] CPU: 1 PID: 477 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   26.814118] Hardware name: BCM2835
+[   26.814141] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   26.814151] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   26.814163] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   26.814170] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   26.814179] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   26.814183] Exception stack(0xb7b83fa8 to 0xb7b83ff0)
+[   26.814189] 3fa0:                   76f14998 00000000 01200011 00000000 00000000 00000000
+[   26.814196] 3fc0: 76f14998 00000000 00000000 00000078 00000000 76ed1000 76f14df0 00024414
+[   26.814200] 3fe0: 76f14930 7eac8650 76e2675c 76e26788
+[   26.817581] [+] process: dhcpcd-run-hook
+[   26.817594] CPU: 0 PID: 475 Comm: dhcpcd-run-hook Tainted: G         C        4.19.127-v7+ #4
+[   26.817596] Hardware name: BCM2835
+[   26.817618] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   26.817629] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   26.817640] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   26.817648] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   26.817657] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   26.817660] Exception stack(0xb6883fa8 to 0xb6883ff0)
+[   26.817666] 3fa0:                   76f9a998 00000000 01200011 00000000 00000000 00000000
+[   26.817673] 3fc0: 76f9a998 00000000 00000002 00000078 00000000 76f57000 76f9adf0 00000100
+[   26.817677] 3fe0: 76f9a930 7e908e10 76eac75c 76eac788
+[   26.818410] [+] process: dhcpcd-run-hook
+[   26.818422] CPU: 1 PID: 520 Comm: dhcpcd-run-hook Tainted: G         C        4.19.127-v7+ #4
+[   26.818424] Hardware name: BCM2835
+[   26.818445] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   26.818456] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   26.818469] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   26.818477] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   26.818486] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   26.818490] Exception stack(0xb688ffa8 to 0xb688fff0)
+[   26.818496] ffa0:                   76f9a998 00000000 01200011 00000000 00000000 00000000
+[   26.818502] ffc0: 76f9a998 00000000 00000000 00000078 00000000 76f57000 76f9adf0 00024414
+[   26.818507] ffe0: 76f9a930 7e908b00 76eac75c 76eac788
+[   26.821932] [+] process: dhcpcd-run-hook
+[   26.821944] CPU: 2 PID: 475 Comm: dhcpcd-run-hook Tainted: G         C        4.19.127-v7+ #4
+[   26.821947] Hardware name: BCM2835
+[   26.821969] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   26.821980] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   26.821991] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   26.821998] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   26.822008] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   26.822012] Exception stack(0xb6883fa8 to 0xb6883ff0)
+[   26.822017] 3fa0:                   76f9a998 00000000 01200011 00000000 00000000 00000000
+[   26.822024] 3fc0: 76f9a998 00000000 00000002 00000078 00000000 76f57000 76f9adf0 00000000
+[   26.822028] 3fe0: 76f9a930 7e908df0 76eac75c 76eac788
+[   29.198706] [+] process: dhcpcd
+[   29.198730] CPU: 2 PID: 392 Comm: dhcpcd Tainted: G         C        4.19.127-v7+ #4
+[   29.198736] Hardware name: BCM2835
+[   29.198772] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   29.198791] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   29.198812] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   29.198827] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   29.198842] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   29.198850] Exception stack(0xb4a65fa8 to 0xb4a65ff0)
+[   29.198862] 5fa0:                   0005acb8 00000002 00004111 76ff1ff8 ffffffff 00000000
+[   29.198875] 5fc0: 0005acb8 00000002 76f9c000 00000078 76fe9000 7eeed4a0 7eeed700 000450dc
+[   29.198884] 5fe0: 00004111 7eeed3f8 76f15c80 76f29558
+[   29.210167] [+] process: dhcpcd-run-hook
+[   29.210188] CPU: 1 PID: 523 Comm: dhcpcd-run-hook Tainted: G         C        4.19.127-v7+ #4
+[   29.210193] Hardware name: BCM2835
+[   29.210227] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   29.210248] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   29.210268] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   29.210283] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   29.210299] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   29.210307] Exception stack(0xb7b83fa8 to 0xb7b83ff0)
+[   29.210318] 3fa0:                   76f5a998 00000000 01200011 00000000 00000000 00000000
+[   29.210331] 3fc0: 76f5a998 00000000 00000000 00000078 00000000 76f17000 76f5adf0 00afc474
+[   29.210340] 3fe0: 76f5a930 7eec11b8 76e6c75c 76e6c788
+[   29.210713] [+] process: dhcpcd-run-hook
+[   29.210732] CPU: 1 PID: 523 Comm: dhcpcd-run-hook Tainted: G         C        4.19.127-v7+ #4
+[   29.210739] Hardware name: BCM2835
+[   29.210779] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   29.210813] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   29.210836] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   29.210856] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   29.210871] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   29.210878] Exception stack(0xb7b83fa8 to 0xb7b83ff0)
+[   29.210889] 3fa0:                   76f5a998 00000000 01200011 00000000 00000000 00000000
+[   29.210902] 3fc0: 76f5a998 00000000 00000000 00000078 00000000 76f17000 76f5adf0 00afc4c4
+[   29.210912] 3fe0: 76f5a930 7eec11b8 76e6c75c 76e6c788
+[   29.221695] [+] process: resolvconf
+[   29.221716] CPU: 2 PID: 525 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   29.221721] Hardware name: BCM2835
+[   29.221756] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   29.221776] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   29.221796] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   29.221811] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   29.221826] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   29.221834] Exception stack(0xb68d5fa8 to 0xb68d5ff0)
+[   29.221845] 5fa0:                   76f78998 00000000 01200011 00000000 00000000 00000000
+[   29.221858] 5fc0: 76f78998 00000000 00000000 00000078 00000000 76f35000 76f78df0 00024414
+[   29.221867] 5fe0: 76f78930 7ee3f740 76e8a75c 76e8a788
+[   29.228497] [+] process: resolvconf
+[   29.228517] CPU: 2 PID: 525 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   29.228522] Hardware name: BCM2835
+[   29.228556] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   29.228576] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   29.228596] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   29.228616] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   29.228632] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   29.228639] Exception stack(0xb68d5fa8 to 0xb68d5ff0)
+[   29.228650] 5fa0:                   76f78998 00000000 01200011 00000000 00000000 00000000
+[   29.228663] 5fc0: 76f78998 00000000 00000002 00000078 00000000 76f35000 76f78df0 00000100
+[   29.228672] 5fe0: 76f78930 7ee3f568 76e8a75c 76e8a788
+[   29.237573] [+] process: resolvconf
+[   29.237593] CPU: 0 PID: 525 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   29.237599] Hardware name: BCM2835
+[   29.237633] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   29.237652] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   29.237672] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   29.237687] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   29.237703] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   29.237710] Exception stack(0xb68d5fa8 to 0xb68d5ff0)
+[   29.237722] 5fa0:                   76f78998 00000000 01200011 00000000 00000000 00000000
+[   29.237734] 5fc0: 76f78998 00000000 00000000 00000078 00000000 76f35000 76f78df0 00024414
+[   29.237743] 5fe0: 76f78930 7ee3f708 76e8a75c 76e8a788
+[   29.242559] [+] process: resolvconf
+[   29.242578] CPU: 0 PID: 525 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   29.242583] Hardware name: BCM2835
+[   29.242617] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   29.242637] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   29.242657] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   29.242672] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   29.242687] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   29.242695] Exception stack(0xb68d5fa8 to 0xb68d5ff0)
+[   29.242706] 5fa0:                   76f78998 00000000 01200011 00000000 00000000 00000000
+[   29.242719] 5fc0: 76f78998 00000000 00000002 00000078 00000000 76f35000 76f78df0 00000100
+[   29.242728] 5fe0: 76f78930 7ee3f6a8 76e8a75c 76e8a788
+[   29.244252] [+] process: resolvconf
+[   29.244271] CPU: 1 PID: 529 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   29.244276] Hardware name: BCM2835
+[   29.244304] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   29.244322] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   29.244340] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   29.244355] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   29.244370] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   29.244377] Exception stack(0xb688ffa8 to 0xb688fff0)
+[   29.244389] ffa0:                   76f78998 00000000 01200011 00000000 00000000 00000000
+[   29.244401] ffc0: 76f78998 00000000 00000002 00000078 00000000 76f35000 76f78df0 00000000
+[   29.244410] ffe0: 76f78930 7ee3ef20 76e8a75c 76e8a788
+[   29.246101] [+] process: resolvconf
+[   29.246119] CPU: 1 PID: 529 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   29.246124] Hardware name: BCM2835
+[   29.246153] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   29.246171] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   29.246189] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   29.246203] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   29.246218] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   29.246225] Exception stack(0xb688ffa8 to 0xb688fff0)
+[   29.246237] ffa0:                   76f78998 00000000 01200011 00000000 00000000 00000000
+[   29.246250] ffc0: 76f78998 00000000 00000002 00000078 00000000 76f35000 76f78df0 00000100
+[   29.246258] ffe0: 76f78930 7ee3f198 76e8a75c 76e8a788
+[   29.247206] [+] process: resolvconf
+[   29.247225] CPU: 2 PID: 531 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   29.247230] Hardware name: BCM2835
+[   29.247261] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   29.247287] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   29.247306] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   29.247320] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   29.247335] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   29.247342] Exception stack(0xb31fbfa8 to 0xb31fbff0)
+[   29.247354] bfa0:                   76f78998 00000000 01200011 00000000 00000000 00000000
+[   29.247367] bfc0: 76f78998 00000000 00000000 00000078 00000000 76f35000 76f78df0 00f68dac
+[   29.247376] bfe0: 76f78930 7ee3f140 76e8a75c 76e8a788
+[   29.247739] [+] process: resolvconf
+[   29.247755] CPU: 2 PID: 531 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   29.247760] Hardware name: BCM2835
+[   29.247782] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   29.247799] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   29.247816] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   29.247830] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   29.247844] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   29.247851] Exception stack(0xb31fbfa8 to 0xb31fbff0)
+[   29.247863] bfa0:                   76f78998 00000000 01200011 00000000 00000000 00000000
+[   29.247875] bfc0: 76f78998 00000000 00000000 00000078 00000000 76f35000 76f78df0 00f68dfc
+[   29.247884] bfe0: 76f78930 7ee3f140 76e8a75c 76e8a788
+[   29.248299] [+] process: resolvconf
+[   29.248324] CPU: 2 PID: 531 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   29.248330] Hardware name: BCM2835
+[   29.248372] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   29.248423] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   29.248465] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   29.248484] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   29.248512] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   29.248526] Exception stack(0xb31fbfa8 to 0xb31fbff0)
+[   29.248544] bfa0:                   76f78998 00000000 01200011 00000000 00000000 00000000
+[   29.248574] bfc0: 76f78998 00000000 00000000 00000078 00000000 76f35000 76f78df0 00f68e2c
+[   29.248583] bfe0: 76f78930 7ee3f140 76e8a75c 76e8a788
+[   29.253470] [+] process: resolvconf
+[   29.253490] CPU: 3 PID: 532 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   29.253495] Hardware name: BCM2835
+[   29.253531] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   29.253550] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   29.253570] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   29.253586] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   29.253606] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   29.253613] Exception stack(0xb491dfa8 to 0xb491dff0)
+[   29.253625] dfa0:                   76f78998 00000000 01200011 00000000 00000000 00000000
+[   29.253638] dfc0: 76f78998 00000000 00000002 00000078 00000000 76f35000 76f78df0 00000000
+[   29.253646] dfe0: 76f78930 7ee3ed38 76e8a75c 76e8a788
+[   29.258232] [+] process: resolvconf
+[   29.258252] CPU: 2 PID: 534 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   29.258257] Hardware name: BCM2835
+[   29.258294] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   29.258314] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   29.258335] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   29.258350] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   29.258366] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   29.258374] Exception stack(0xb494bfa8 to 0xb494bff0)
+[   29.258386] bfa0:                   76f78998 00000000 01200011 00000000 00000000 00000000
+[   29.258398] bfc0: 76f78998 00000000 00000002 00000078 00000000 76f35000 76f78df0 00000100
+[   29.258407] bfe0: 76f78930 7ee3eca8 76e8a75c 76e8a788
+[   29.260604] [+] process: resolvconf
+[   29.260624] CPU: 2 PID: 534 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   29.260629] Hardware name: BCM2835
+[   29.260663] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   29.260682] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   29.260702] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   29.260717] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   29.260733] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   29.260740] Exception stack(0xb494bfa8 to 0xb494bff0)
+[   29.260752] bfa0:                   76f78998 00000000 01200011 00000000 00000000 00000000
+[   29.260764] bfc0: 76f78998 00000000 00000002 00000078 00000000 76f35000 76f78df0 00000100
+[   29.260773] bfe0: 76f78930 7ee3ecb8 76e8a75c 76e8a788
+[   29.266090] [+] process: resolvconf
+[   29.266110] CPU: 2 PID: 529 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   29.266115] Hardware name: BCM2835
+[   29.266151] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   29.266170] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   29.266190] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   29.266205] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   29.266221] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   29.266229] Exception stack(0xb688ffa8 to 0xb688fff0)
+[   29.266240] ffa0:                   76f78998 00000000 01200011 00000000 00000000 00000000
+[   29.266253] ffc0: 76f78998 00000000 00000002 00000078 00000000 76f35000 76f78df0 00000100
+[   29.266267] ffe0: 76f78930 7ee3f1e8 76e8a75c 76e8a788
+[   29.269081] [+] process: resolvconf
+[   29.269101] CPU: 2 PID: 529 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   29.269107] Hardware name: BCM2835
+[   29.269140] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   29.269159] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   29.269178] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   29.269193] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   29.269208] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   29.269215] Exception stack(0xb688ffa8 to 0xb688fff0)
+[   29.269227] ffa0:                   76f78998 00000000 01200011 00000000 00000000 00000000
+[   29.269240] ffc0: 76f78998 00000000 00000002 00000078 00000000 76f35000 76f78df0 00000100
+[   29.269249] ffe0: 76f78930 7ee3f1f8 76e8a75c 76e8a788
+[   29.270843] [+] process: resolvconf
+[   29.270861] CPU: 2 PID: 529 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   29.270866] Hardware name: BCM2835
+[   29.270898] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   29.270916] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   29.270936] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   29.270951] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   29.270966] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   29.270973] Exception stack(0xb688ffa8 to 0xb688fff0)
+[   29.270985] ffa0:                   76f78998 00000000 01200011 00000000 00000000 00000000
+[   29.270998] ffc0: 76f78998 00000000 00000002 00000078 00000000 76f35000 76f78df0 00000100
+[   29.271011] ffe0: 76f78930 7ee3f208 76e8a75c 76e8a788
+[   29.272753] [+] process: resolvconf
+[   29.272770] CPU: 2 PID: 529 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   29.272775] Hardware name: BCM2835
+[   29.272806] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   29.272825] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   29.272843] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   29.272858] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   29.272874] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   29.272881] Exception stack(0xb688ffa8 to 0xb688fff0)
+[   29.272893] ffa0:                   76f78998 00000000 01200011 00000000 00000000 00000000
+[   29.272905] ffc0: 76f78998 00000000 00000002 00000078 00000000 76f35000 76f78df0 00000100
+[   29.272914] ffe0: 76f78930 7ee3f218 76e8a75c 76e8a788
+[   29.274712] [+] process: resolvconf
+[   29.274731] CPU: 2 PID: 529 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   29.274736] Hardware name: BCM2835
+[   29.274769] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   29.274788] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   29.274807] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   29.274822] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   29.274838] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   29.274845] Exception stack(0xb688ffa8 to 0xb688fff0)
+[   29.274857] ffa0:                   76f78998 00000000 01200011 00000000 00000000 00000000
+[   29.274869] ffc0: 76f78998 00000000 00000002 00000078 00000000 76f35000 76f78df0 00000100
+[   29.274878] ffe0: 76f78930 7ee3f228 76e8a75c 76e8a788
+[   29.276887] [+] process: resolvconf
+[   29.276907] CPU: 2 PID: 529 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   29.276912] Hardware name: BCM2835
+[   29.276949] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   29.276968] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   29.276988] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   29.277003] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   29.277019] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   29.277027] Exception stack(0xb688ffa8 to 0xb688fff0)
+[   29.277039] ffa0:                   76f78998 00000000 01200011 00000000 00000000 00000000
+[   29.277051] ffc0: 76f78998 00000000 00000002 00000078 00000000 76f35000 76f78df0 00000100
+[   29.277060] ffe0: 76f78930 7ee3f238 76e8a75c 76e8a788
+[   29.279418] [+] process: resolvconf
+[   29.279437] CPU: 2 PID: 529 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   29.279442] Hardware name: BCM2835
+[   29.279476] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   29.279500] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   29.279520] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   29.279535] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   29.279551] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   29.279558] Exception stack(0xb688ffa8 to 0xb688fff0)
+[   29.279569] ffa0:                   76f78998 00000000 01200011 00000000 00000000 00000000
+[   29.279582] ffc0: 76f78998 00000000 00000002 00000078 00000000 76f35000 76f78df0 00000100
+[   29.279591] ffe0: 76f78930 7ee3f248 76e8a75c 76e8a788
+[   29.282421] [+] process: resolvconf
+[   29.282441] CPU: 0 PID: 525 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   29.282446] Hardware name: BCM2835
+[   29.282479] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   29.282499] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   29.282518] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   29.282533] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   29.282549] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   29.282556] Exception stack(0xb68d5fa8 to 0xb68d5ff0)
+[   29.282568] 5fa0:                   76f78998 00000000 01200011 00000000 00000000 00000000
+[   29.282580] 5fc0: 76f78998 00000000 00000000 00000078 00000000 76f35000 76f78df0 000364ec
+[   29.282589] 5fe0: 76f78930 7ee3f788 76e8a75c 76e8a788
+[   29.284521] [+] process: resolvconf
+[   29.284539] CPU: 0 PID: 545 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   29.284544] Hardware name: BCM2835
+[   29.284575] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   29.284594] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   29.284614] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   29.284629] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   29.284644] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   29.284652] Exception stack(0xb69ddfa8 to 0xb69ddff0)
+[   29.284663] dfa0:                   76f78998 00000000 01200011 00000000 00000000 00000000
+[   29.284675] dfc0: 76f78998 00000000 00000002 00000078 00000000 76f35000 76f78df0 00000000
+[   29.284689] dfe0: 76f78930 7ee3f2b8 76e8a75c 76e8a788
+[   29.300039] [+] process: resolvconf
+[   29.300052] CPU: 0 PID: 545 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   29.300054] Hardware name: BCM2835
+[   29.300076] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   29.300086] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   29.300097] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   29.300108] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   29.300117] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   29.300120] Exception stack(0xb69ddfa8 to 0xb69ddff0)
+[   29.300126] dfa0:                   76f78998 00000000 01200011 00000000 00000000 00000000
+[   29.300133] dfc0: 76f78998 00000000 00000002 00000078 00000000 76f35000 76f78df0 00000100
+[   29.300137] dfe0: 76f78930 7ee3efc0 76e8a75c 76e8a788
+[   29.301361] [+] process: resolvconf
+[   29.301373] CPU: 0 PID: 545 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   29.301375] Hardware name: BCM2835
+[   29.301395] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   29.301405] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   29.301416] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   29.301426] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   29.301435] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   29.301439] Exception stack(0xb69ddfa8 to 0xb69ddff0)
+[   29.301445] dfa0:                   76f78998 00000000 01200011 00000000 00000000 00000000
+[   29.301451] dfc0: 76f78998 00000000 00000002 00000078 00000000 76f35000 76f78df0 00000100
+[   29.301456] dfe0: 76f78930 7ee3f288 76e8a75c 76e8a788
+[   29.303715] [+] process: resolvconf
+[   29.303726] CPU: 0 PID: 545 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   29.303729] Hardware name: BCM2835
+[   29.303749] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   29.303759] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   29.303769] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   29.303777] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   29.303789] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   29.303793] Exception stack(0xb69ddfa8 to 0xb69ddff0)
+[   29.303799] dfa0:                   76f78998 00000000 01200011 00000000 00000000 00000000
+[   29.303805] dfc0: 76f78998 00000000 00000002 00000078 00000000 76f35000 76f78df0 00000100
+[   29.303809] dfe0: 76f78930 7ee3f288 76e8a75c 76e8a788
+[   29.305190] [+] process: resolvconf
+[   29.305201] CPU: 0 PID: 525 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   29.305203] Hardware name: BCM2835
+[   29.305224] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   29.305234] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   29.305245] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   29.305255] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   29.305264] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   29.305268] Exception stack(0xb68d5fa8 to 0xb68d5ff0)
+[   29.305274] 5fa0:                   76f78998 00000000 01200011 00000000 00000000 00000000
+[   29.305280] 5fc0: 76f78998 00000000 00000000 00000078 00000000 76f35000 76f78df0 000364ec
+[   29.305284] 5fe0: 76f78930 7ee3f788 76e8a75c 76e8a788
+[   29.307678] [+] process: resolvconf
+[   29.307691] CPU: 0 PID: 550 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   29.307694] Hardware name: BCM2835
+[   29.307715] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   29.307727] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   29.307738] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   29.307746] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   29.307754] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   29.307758] Exception stack(0xb31fdfa8 to 0xb31fdff0)
+[   29.307764] dfa0:                   76f78998 00000000 01200011 00000000 00000000 00000000
+[   29.307770] dfc0: 76f78998 00000000 00000002 00000078 00000000 76f35000 76f78df0 00000100
+[   29.307775] dfe0: 76f78930 7ee3f188 76e8a75c 76e8a788
+[   29.308753] [+] process: resolvconf
+[   29.308763] CPU: 0 PID: 550 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   29.308766] Hardware name: BCM2835
+[   29.308786] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   29.308796] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   29.308806] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   29.308814] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   29.308822] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   29.308828] Exception stack(0xb31fdfa8 to 0xb31fdff0)
+[   29.308834] dfa0:                   76f78998 00000000 01200011 00000000 00000000 00000000
+[   29.308841] dfc0: 76f78998 00000000 00000002 00000078 00000000 76f35000 76f78df0 00000000
+[   29.308845] dfe0: 76f78930 7ee3f1f0 76e8a75c 76e8a788
+[   29.310136] [+] process: resolvconf
+[   29.310147] CPU: 0 PID: 550 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   29.310150] Hardware name: BCM2835
+[   29.310170] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   29.310180] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   29.310190] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   29.310198] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   29.310207] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   29.310211] Exception stack(0xb31fdfa8 to 0xb31fdff0)
+[   29.310217] dfa0:                   76f78998 00000000 01200011 00000000 00000000 00000000
+[   29.310223] dfc0: 76f78998 00000000 00000002 00000078 00000000 76f35000 76f78df0 00000100
+[   29.310228] dfe0: 76f78930 7ee3f228 76e8a75c 76e8a788
+[   29.310669] [+] process: resolvconf
+[   29.310679] CPU: 2 PID: 553 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   29.310681] Hardware name: BCM2835
+[   29.310695] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   29.310705] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   29.310716] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   29.310723] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   29.310731] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   29.310734] Exception stack(0xb3209fa8 to 0xb3209ff0)
+[   29.310740] 9fa0:                   76f78998 00000000 01200011 00000000 00000000 00000000
+[   29.310747] 9fc0: 76f78998 00000000 00000000 00000078 00000000 76f35000 76f78df0 00f65494
+[   29.310751] 9fe0: 76f78930 7ee3f1d0 76e8a75c 76e8a788
+[   29.311003] [+] process: resolvconf
+[   29.311011] CPU: 2 PID: 553 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   29.311016] Hardware name: BCM2835
+[   29.311036] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   29.311048] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   29.311058] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   29.311066] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   29.311073] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   29.311077] Exception stack(0xb3209fa8 to 0xb3209ff0)
+[   29.311083] 9fa0:                   76f78998 00000000 01200011 00000000 00000000 00000000
+[   29.311089] 9fc0: 76f78998 00000000 00000000 00000078 00000000 76f35000 76f78df0 00f6553c
+[   29.311094] 9fe0: 76f78930 7ee3f1d0 76e8a75c 76e8a788
+[   29.313490] [+] process: resolvconf
+[   29.313501] CPU: 0 PID: 554 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   29.313504] Hardware name: BCM2835
+[   29.313525] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   29.313535] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   29.313545] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   29.313555] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   29.313563] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   29.313567] Exception stack(0xb6883fa8 to 0xb6883ff0)
+[   29.313573] 3fa0:                   76f78998 00000000 01200011 00000000 00000000 00000000
+[   29.313579] 3fc0: 76f78998 00000000 00000002 00000078 00000000 76f35000 76f78df0 00000000
+[   29.313584] 3fe0: 76f78930 7ee3edc8 76e8a75c 76e8a788
+[   29.316521] [+] process: resolvconf
+[   29.316535] CPU: 0 PID: 550 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   29.316542] Hardware name: BCM2835
+[   29.316568] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   29.316581] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   29.316597] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   29.316610] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   29.316624] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   29.316632] Exception stack(0xb31fdfa8 to 0xb31fdff0)
+[   29.316642] dfa0:                   76f78998 00000000 01200011 00000000 00000000 00000000
+[   29.316651] dfc0: 76f78998 00000000 00000002 00000078 00000000 76f35000 76f78df0 00000100
+[   29.316658] dfe0: 76f78930 7ee3f298 76e8a75c 76e8a788
+[   29.319104] [+] process: resolvconf
+[   29.319116] CPU: 0 PID: 550 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   29.319119] Hardware name: BCM2835
+[   29.319141] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   29.319151] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   29.319163] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   29.319170] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   29.319179] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   29.319183] Exception stack(0xb31fdfa8 to 0xb31fdff0)
+[   29.319189] dfa0:                   76f78998 00000000 01200011 00000000 00000000 00000000
+[   29.319195] dfc0: 76f78998 00000000 00000002 00000078 00000000 76f35000 76f78df0 00000100
+[   29.319200] dfe0: 76f78930 7ee3f298 76e8a75c 76e8a788
+[   29.320262] [+] process: resolvconf
+[   29.320273] CPU: 0 PID: 550 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   29.320276] Hardware name: BCM2835
+[   29.320296] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   29.320307] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   29.320318] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   29.320326] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   29.320335] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   29.320338] Exception stack(0xb31fdfa8 to 0xb31fdff0)
+[   29.320344] dfa0:                   76f78998 00000000 01200011 00000000 00000000 00000000
+[   29.320351] dfc0: 76f78998 00000000 00000000 00000078 00000000 76f35000 76f78df0 0003855c
+[   29.320356] dfe0: 76f78930 7ee3f430 76e8a75c 76e8a788
+[   29.321799] [+] process: resolvconf
+[   29.321810] CPU: 0 PID: 550 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   29.321815] Hardware name: BCM2835
+[   29.321836] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   29.321847] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   29.321858] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   29.321866] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   29.321874] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   29.321878] Exception stack(0xb31fdfa8 to 0xb31fdff0)
+[   29.321884] dfa0:                   76f78998 00000000 01200011 00000000 00000000 00000000
+[   29.321891] dfc0: 76f78998 00000000 00000000 00000078 00000000 76f35000 76f78df0 00024414
+[   29.321895] dfe0: 76f78930 7ee3f130 76e8a75c 76e8a788
+[   29.328613] [+] process: resolvconf
+[   29.328625] CPU: 0 PID: 525 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   29.328628] Hardware name: BCM2835
+[   29.328650] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   29.328661] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   29.328673] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   29.328683] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   29.328691] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   29.328695] Exception stack(0xb68d5fa8 to 0xb68d5ff0)
+[   29.328701] 5fa0:                   76f78998 00000000 01200011 00000000 00000000 00000000
+[   29.328708] 5fc0: 76f78998 00000000 00000000 00000078 00000000 76f35000 76f78df0 000364ec
+[   29.328712] 5fe0: 76f78930 7ee3f788 76e8a75c 76e8a788
+[   29.329905] [+] process: resolvconf
+[   29.329918] CPU: 0 PID: 525 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   29.329920] Hardware name: BCM2835
+[   29.329941] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   29.329952] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   29.329963] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   29.329971] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   29.329979] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   29.329985] Exception stack(0xb68d5fa8 to 0xb68d5ff0)
+[   29.329991] 5fa0:                   76f78998 00000000 01200011 00000000 00000000 00000000
+[   29.329998] 5fc0: 76f78998 00000000 00000000 00000078 00000000 76f35000 76f78df0 000364ec
+[   29.330002] 5fe0: 76f78930 7ee3f788 76e8a75c 76e8a788
+[   29.331351] [+] process: resolvconf
+[   29.331362] CPU: 0 PID: 562 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   29.331364] Hardware name: BCM2835
+[   29.331386] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   29.331397] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   29.331407] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   29.331415] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   29.331424] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   29.331430] Exception stack(0xb3163fa8 to 0xb3163ff0)
+[   29.331436] 3fa0:                   76f78998 00000000 01200011 00000000 00000000 00000000
+[   29.331443] 3fc0: 76f78998 00000000 00000002 00000078 00000000 76f35000 76f78df0 00000100
+[   29.331447] 3fe0: 76f78930 7ee3efc0 76e8a75c 76e8a788
+[   29.333124] [+] process: resolvconf
+[   29.333136] CPU: 0 PID: 525 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   29.333139] Hardware name: BCM2835
+[   29.333161] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   29.333171] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   29.333182] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   29.333190] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   29.333198] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   29.333202] Exception stack(0xb68d5fa8 to 0xb68d5ff0)
+[   29.333208] 5fa0:                   76f78998 00000000 01200011 00000000 00000000 00000000
+[   29.333216] 5fc0: 76f78998 00000000 00000000 00000078 00000000 76f35000 76f78df0 000364ec
+[   29.333221] 5fe0: 76f78930 7ee3f788 76e8a75c 76e8a788
+[   29.334472] [+] process: resolvconf
+[   29.334484] CPU: 2 PID: 564 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   29.334487] Hardware name: BCM2835
+[   29.334506] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   29.334517] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   29.334527] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   29.334535] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   29.334545] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   29.334549] Exception stack(0xb4ad5fa8 to 0xb4ad5ff0)
+[   29.334555] 5fa0:                   76f78998 00000000 01200011 00000000 00000000 00000000
+[   29.334561] 5fc0: 76f78998 00000000 00000002 00000078 00000000 76f35000 76f78df0 00000100
+[   29.334566] 5fe0: 76f78930 7ee3efc0 76e8a75c 76e8a788
+[   29.335794] [+] process: resolvconf
+[   29.335805] CPU: 2 PID: 564 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   29.335808] Hardware name: BCM2835
+[   29.335828] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   29.335839] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   29.335849] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   29.335857] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   29.335865] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   29.335871] Exception stack(0xb4ad5fa8 to 0xb4ad5ff0)
+[   29.335877] 5fa0:                   76f78998 00000000 01200011 00000000 00000000 00000000
+[   29.335884] 5fc0: 76f78998 00000000 00000002 00000078 00000000 76f35000 76f78df0 00000100
+[   29.335888] 5fe0: 76f78930 7ee3f298 76e8a75c 76e8a788
+[   29.339065] [+] process: resolvconf
+[   29.339077] CPU: 2 PID: 564 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   29.339080] Hardware name: BCM2835
+[   29.339100] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   29.339110] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   29.339121] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   29.339129] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   29.339137] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   29.339141] Exception stack(0xb4ad5fa8 to 0xb4ad5ff0)
+[   29.339147] 5fa0:                   76f78998 00000000 01200011 00000000 00000000 00000000
+[   29.339153] 5fc0: 76f78998 00000000 00000002 00000078 00000000 76f35000 76f78df0 00000100
+[   29.339158] 5fe0: 76f78930 7ee3f298 76e8a75c 76e8a788
+[   29.340575] [+] process: resolvconf
+[   29.340586] CPU: 2 PID: 564 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   29.340589] Hardware name: BCM2835
+[   29.340610] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   29.340621] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   29.340632] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   29.340640] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   29.340649] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   29.340653] Exception stack(0xb4ad5fa8 to 0xb4ad5ff0)
+[   29.340658] 5fa0:                   76f78998 00000000 01200011 00000000 00000000 00000000
+[   29.340665] 5fc0: 76f78998 00000000 00000000 00000078 00000000 76f35000 76f78df0 00024414
+[   29.340669] 5fe0: 76f78930 7ee3eeb0 76e8a75c 76e8a788
+[   29.347546] [+] process: resolvconf
+[   29.347557] CPU: 0 PID: 525 Comm: resolvconf Tainted: G         C        4.19.127-v7+ #4
+[   29.347560] Hardware name: BCM2835
+[   29.347582] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   29.347593] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   29.347604] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   29.347611] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   29.347620] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   29.347624] Exception stack(0xb68d5fa8 to 0xb68d5ff0)
+[   29.347630] 5fa0:                   76f78998 00000000 01200011 00000000 00000000 00000000
+[   29.347636] 5fc0: 76f78998 00000000 00000000 00000078 00000000 76f35000 76f78df0 00024414
+[   29.347641] 5fe0: 76f78930 7ee3f650 76e8a75c 76e8a788
+[   29.350938] [+] process: dhcpcd-run-hook
+[   29.350952] CPU: 1 PID: 523 Comm: dhcpcd-run-hook Tainted: G         C        4.19.127-v7+ #4
+[   29.350955] Hardware name: BCM2835
+[   29.350976] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   29.350988] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   29.350999] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   29.351007] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   29.351016] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   29.351019] Exception stack(0xb7b83fa8 to 0xb7b83ff0)
+[   29.351025] 3fa0:                   76f5a998 00000000 01200011 00000000 00000000 00000000
+[   29.351032] 3fc0: 76f5a998 00000000 00000002 00000078 00000000 76f17000 76f5adf0 00000100
+[   29.351036] 3fe0: 76f5a930 7eec0e20 76e6c75c 76e6c788
+[   29.351726] [+] process: dhcpcd-run-hook
+[   29.351737] CPU: 0 PID: 570 Comm: dhcpcd-run-hook Tainted: G         C        4.19.127-v7+ #4
+[   29.351739] Hardware name: BCM2835
+[   29.351759] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   29.351772] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   29.351782] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   29.351790] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   29.351799] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   29.351802] Exception stack(0xb5d8ffa8 to 0xb5d8fff0)
+[   29.351808] ffa0:                   76f5a998 00000000 01200011 00000000 00000000 00000000
+[   29.351815] ffc0: 76f5a998 00000000 00000000 00000078 00000000 76f17000 76f5adf0 00024414
+[   29.351819] ffe0: 76f5a930 7eec0b10 76e6c75c 76e6c788
+[   29.355203] [+] process: dhcpcd-run-hook
+[   29.355215] CPU: 2 PID: 523 Comm: dhcpcd-run-hook Tainted: G         C        4.19.127-v7+ #4
+[   29.355218] Hardware name: BCM2835
+[   29.355239] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   29.355250] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   29.355261] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   29.355269] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   29.355277] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   29.355281] Exception stack(0xb7b83fa8 to 0xb7b83ff0)
+[   29.355287] 3fa0:                   76f5a998 00000000 01200011 00000000 00000000 00000000
+[   29.355295] 3fc0: 76f5a998 00000000 00000002 00000078 00000000 76f17000 76f5adf0 00000000
+[   29.355300] 3fe0: 76f5a930 7eec0e00 76e6c75c 76e6c788
+[   34.714857] [+] process: sshd
+[   34.714881] CPU: 1 PID: 421 Comm: sshd Tainted: G         C        4.19.127-v7+ #4
+[   34.714886] Hardware name: BCM2835
+[   34.714922] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   34.714942] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   34.714962] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   34.714977] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   34.714994] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   34.715001] Exception stack(0xb4b07fa8 to 0xb4b07ff0)
+[   34.715013] 7fa0:                   76f2cdd8 00000000 01200011 00000000 00000000 00000000
+[   34.715026] 7fc0: 76f2cdd8 00000000 000c3d08 00000078 00000000 76a0d000 76f2d230 01643e98
+[   34.715035] 7fe0: 76f2cd70 7edcf198 7696275c 76962788
+[   34.781707] [+] process: sshd
+[   34.781731] CPU: 3 PID: 573 Comm: sshd Tainted: G         C        4.19.127-v7+ #4
+[   34.781736] Hardware name: BCM2835
+[   34.781771] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   34.781791] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   34.781810] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   34.781825] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   34.781841] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   34.781848] Exception stack(0xb7b83fa8 to 0xb7b83ff0)
+[   34.781860] 3fa0:                   76f10dd8 00000000 01200011 00000000 00000000 00000000
+[   34.781873] 3fc0: 76f10dd8 00000000 000c2b30 00000078 00000000 769f1000 76f11230 000c3b30
+[   34.781882] 3fe0: 76f10d70 7ea5d370 7694675c 76946788
+[   34.891315] [+] process: kworker/u8:2
+[   34.891328] CPU: 2 PID: 151 Comm: kworker/u8:2 Tainted: G         C        4.19.127-v7+ #4
+[   34.891330] Hardware name: BCM2835
+[   34.891345] Workqueue: events_unbound call_usermodehelper_exec_work
+[   34.891364] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   34.891374] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   34.891385] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   34.891393] [<8011f780>] (_do_fork) from [<8011fb64>] (kernel_thread+0x3c/0x44)
+[   34.891400] [<8011fb64>] (kernel_thread) from [<8013803c>] (call_usermodehelper_exec_work+0x58/0xe8)
+[   34.891409] [<8013803c>] (call_usermodehelper_exec_work) from [<8013bdb0>] (process_one_work+0x23c/0x518)
+[   34.891418] [<8013bdb0>] (process_one_work) from [<8013ce88>] (worker_thread+0x60/0x5b8)
+[   34.891426] [<8013ce88>] (worker_thread) from [<8014290c>] (kthread+0x16c/0x174)
+[   34.891434] [<8014290c>] (kthread) from [<801010ac>] (ret_from_fork+0x14/0x28)
+[   34.891438] Exception stack(0xb68d1fb0 to 0xb68d1ff8)
+[   34.891443] 1fa0:                                     00000000 00000000 00000000 00000000
+[   34.891449] 1fc0: 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000
+[   34.891454] 1fe0: 00000000 00000000 00000000 00000000 00000013 00000000
+[   36.744286] [+] process: kworker/u8:2
+[   36.744306] CPU: 2 PID: 151 Comm: kworker/u8:2 Tainted: G         C        4.19.127-v7+ #4
+[   36.744311] Hardware name: BCM2835
+[   36.744333] Workqueue: events_unbound call_usermodehelper_exec_work
+[   36.744364] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   36.744384] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   36.744404] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   36.744419] [<8011f780>] (_do_fork) from [<8011fb64>] (kernel_thread+0x3c/0x44)
+[   36.744433] [<8011fb64>] (kernel_thread) from [<8013803c>] (call_usermodehelper_exec_work+0x58/0xe8)
+[   36.744451] [<8013803c>] (call_usermodehelper_exec_work) from [<8013bdb0>] (process_one_work+0x23c/0x518)
+[   36.744467] [<8013bdb0>] (process_one_work) from [<8013ce88>] (worker_thread+0x60/0x5b8)
+[   36.744482] [<8013ce88>] (worker_thread) from [<8014290c>] (kthread+0x16c/0x174)
+[   36.744497] [<8014290c>] (kthread) from [<801010ac>] (ret_from_fork+0x14/0x28)
+[   36.744504] Exception stack(0xb68d1fb0 to 0xb68d1ff8)
+[   36.744514] 1fa0:                                     00000000 00000000 00000000 00000000
+[   36.744525] 1fc0: 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000
+[   36.744535] 1fe0: 00000000 00000000 00000000 00000000 00000013 00000000
+[   36.826376] [+] process: kworker/u8:2
+[   36.826387] CPU: 2 PID: 151 Comm: kworker/u8:2 Tainted: G         C        4.19.127-v7+ #4
+[   36.826390] Hardware name: BCM2835
+[   36.826402] Workqueue: events_unbound call_usermodehelper_exec_work
+[   36.826419] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   36.826430] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   36.826440] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   36.826448] [<8011f780>] (_do_fork) from [<8011fb64>] (kernel_thread+0x3c/0x44)
+[   36.826455] [<8011fb64>] (kernel_thread) from [<8013803c>] (call_usermodehelper_exec_work+0x58/0xe8)
+[   36.826464] [<8013803c>] (call_usermodehelper_exec_work) from [<8013bdb0>] (process_one_work+0x23c/0x518)
+[   36.826473] [<8013bdb0>] (process_one_work) from [<8013ce88>] (worker_thread+0x60/0x5b8)
+[   36.826481] [<8013ce88>] (worker_thread) from [<8014290c>] (kthread+0x16c/0x174)
+[   36.826488] [<8014290c>] (kthread) from [<801010ac>] (ret_from_fork+0x14/0x28)
+[   36.826492] Exception stack(0xb68d1fb0 to 0xb68d1ff8)
+[   36.826497] 1fa0:                                     00000000 00000000 00000000 00000000
+[   36.826503] 1fc0: 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000
+[   36.826508] 1fe0: 00000000 00000000 00000000 00000000 00000013 00000000
+[   36.837400] [+] process: kworker/u8:2
+[   36.837413] CPU: 2 PID: 151 Comm: kworker/u8:2 Tainted: G         C        4.19.127-v7+ #4
+[   36.837415] Hardware name: BCM2835
+[   36.837428] Workqueue: events_unbound call_usermodehelper_exec_work
+[   36.837448] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   36.837459] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   36.837469] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   36.837477] [<8011f780>] (_do_fork) from [<8011fb64>] (kernel_thread+0x3c/0x44)
+[   36.837484] [<8011fb64>] (kernel_thread) from [<8013803c>] (call_usermodehelper_exec_work+0x58/0xe8)
+[   36.837494] [<8013803c>] (call_usermodehelper_exec_work) from [<8013bdb0>] (process_one_work+0x23c/0x518)
+[   36.837502] [<8013bdb0>] (process_one_work) from [<8013ce88>] (worker_thread+0x60/0x5b8)
+[   36.837510] [<8013ce88>] (worker_thread) from [<8014290c>] (kthread+0x16c/0x174)
+[   36.837517] [<8014290c>] (kthread) from [<801010ac>] (ret_from_fork+0x14/0x28)
+[   36.837521] Exception stack(0xb68d1fb0 to 0xb68d1ff8)
+[   36.837526] 1fa0:                                     00000000 00000000 00000000 00000000
+[   36.837532] 1fc0: 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000
+[   36.837537] 1fe0: 00000000 00000000 00000000 00000000 00000013 00000000
+[   36.907861] [+] process: sshd
+[   36.907873] CPU: 0 PID: 573 Comm: sshd Tainted: G         C        4.19.127-v7+ #4
+[   36.907875] Hardware name: BCM2835
+[   36.907898] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   36.907909] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   36.907920] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   36.907928] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   36.907936] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   36.907940] Exception stack(0xb7b83fa8 to 0xb7b83ff0)
+[   36.907946] 3fa0:                   7ea5d12c 769f1000 00100011 00000000 7ea5d12c 00000000
+[   36.907953] 3fc0: 7ea5d12c 769f1000 000c0788 00000078 76472db8 7ea5d150 00000001 0011b3c8
+[   36.907957] 3fe0: 0000014c 7ea5d128 7667c91c 768df4ac
+[   36.910398] [+] process: sh
+[   36.910410] CPU: 1 PID: 579 Comm: sh Tainted: G         C        4.19.127-v7+ #4
+[   36.910412] Hardware name: BCM2835
+[   36.910431] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   36.910441] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   36.910451] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   36.910458] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   36.910466] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   36.910469] Exception stack(0xb688ffa8 to 0xb688fff0)
+[   36.910475] ffa0:                   76fae998 00000000 01200011 00000000 00000000 00000000
+[   36.910482] ffc0: 76fae998 00000000 00000000 00000078 00000000 76f6b000 76faedf0 00024414
+[   36.910487] ffe0: 76fae930 7e8c19a8 76ec075c 76ec0788
+[   36.913745] [+] process: run-parts
+[   36.913759] CPU: 3 PID: 580 Comm: run-parts Tainted: G         C        4.19.127-v7+ #4
+[   36.913762] Hardware name: BCM2835
+[   36.913780] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   36.913790] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   36.913800] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   36.913807] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   36.913815] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   36.913818] Exception stack(0xb68d3fa8 to 0xb68d3ff0)
+[   36.913824] 3fa0:                   76ffa998 00000000 01200011 00000000 00000000 00000000
+[   36.913831] 3fc0: 76ffa998 00000000 00000000 00000078 00000000 76fb7000 76ffadf0 001fd963
+[   36.913835] 3fe0: 76ffa930 7e817af8 76f0c75c 76f0c788
+[   36.915739] [+] process: 10-uname
+[   36.915753] CPU: 2 PID: 581 Comm: 10-uname Tainted: G         C        4.19.127-v7+ #4
+[   36.915756] Hardware name: BCM2835
+[   36.915774] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   36.915784] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   36.915794] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   36.915801] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   36.915808] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   36.915812] Exception stack(0xb3201fa8 to 0xb3201ff0)
+[   36.915818] 1fa0:                   76f74998 00000000 01200011 00000000 00000000 00000000
+[   36.915824] 1fc0: 76f74998 00000000 00000000 00000078 00000000 76f31000 76f74df0 00024414
+[   36.915829] 1fe0: 76f74930 7ef6daa8 76e8675c 76e86788
+[   36.926205] [+] process: kworker/u8:2
+[   36.926217] CPU: 2 PID: 151 Comm: kworker/u8:2 Tainted: G         C        4.19.127-v7+ #4
+[   36.926220] Hardware name: BCM2835
+[   36.926233] Workqueue: events_unbound call_usermodehelper_exec_work
+[   36.926251] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   36.926262] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   36.926273] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   36.926281] [<8011f780>] (_do_fork) from [<8011fb64>] (kernel_thread+0x3c/0x44)
+[   36.926288] [<8011fb64>] (kernel_thread) from [<8013803c>] (call_usermodehelper_exec_work+0x58/0xe8)
+[   36.926297] [<8013803c>] (call_usermodehelper_exec_work) from [<8013bdb0>] (process_one_work+0x23c/0x518)
+[   36.926306] [<8013bdb0>] (process_one_work) from [<8013ce88>] (worker_thread+0x60/0x5b8)
+[   36.926314] [<8013ce88>] (worker_thread) from [<8014290c>] (kthread+0x16c/0x174)
+[   36.926322] [<8014290c>] (kthread) from [<801010ac>] (ret_from_fork+0x14/0x28)
+[   36.926325] Exception stack(0xb68d1fb0 to 0xb68d1ff8)
+[   36.926330] 1fa0:                                     00000000 00000000 00000000 00000000
+[   36.926336] 1fc0: 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000
+[   36.926341] 1fe0: 00000000 00000000 00000000 00000000 00000013 00000000
+[   36.934271] [+] process: sshd
+[   36.934284] CPU: 0 PID: 573 Comm: sshd Tainted: G         C        4.19.127-v7+ #4
+[   36.934287] Hardware name: BCM2835
+[   36.934309] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   36.934320] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   36.934332] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   36.934340] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   36.934348] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   36.934352] Exception stack(0xb7b83fa8 to 0xb7b83ff0)
+[   36.934358] 3fa0:                   76f10dd8 00000000 01200011 00000000 00000000 00000000
+[   36.934364] 3fc0: 76f10dd8 00000000 000c2b30 00000078 00000000 769f1000 76f11230 000c3b30
+[   36.934369] 3fe0: 76f10d70 7ea5d370 7694675c 76946788
+[   36.937163] [+] process: kworker/u8:2
+[   36.937175] CPU: 2 PID: 151 Comm: kworker/u8:2 Tainted: G         C        4.19.127-v7+ #4
+[   36.937178] Hardware name: BCM2835
+[   36.937191] Workqueue: events_unbound call_usermodehelper_exec_work
+[   36.937209] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   36.937220] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   36.937231] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   36.937239] [<8011f780>] (_do_fork) from [<8011fb64>] (kernel_thread+0x3c/0x44)
+[   36.937246] [<8011fb64>] (kernel_thread) from [<8013803c>] (call_usermodehelper_exec_work+0x58/0xe8)
+[   36.937256] [<8013803c>] (call_usermodehelper_exec_work) from [<8013bdb0>] (process_one_work+0x23c/0x518)
+[   36.937264] [<8013bdb0>] (process_one_work) from [<8013ce88>] (worker_thread+0x60/0x5b8)
+[   36.937272] [<8013ce88>] (worker_thread) from [<8014290c>] (kthread+0x16c/0x174)
+[   36.937280] [<8014290c>] (kthread) from [<801010ac>] (ret_from_fork+0x14/0x28)
+[   36.937283] Exception stack(0xb68d1fb0 to 0xb68d1ff8)
+[   36.937288] 1fa0:                                     00000000 00000000 00000000 00000000
+[   36.937294] 1fc0: 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000
+[   36.937299] 1fe0: 00000000 00000000 00000000 00000000 00000013 00000000
+[   36.952850] [+] process: kworker/u8:2
+[   36.952863] CPU: 2 PID: 151 Comm: kworker/u8:2 Tainted: G         C        4.19.127-v7+ #4
+[   36.952865] Hardware name: BCM2835
+[   36.952879] Workqueue: events_unbound call_usermodehelper_exec_work
+[   36.952898] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   36.952909] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   36.952920] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   36.952928] [<8011f780>] (_do_fork) from [<8011fb64>] (kernel_thread+0x3c/0x44)
+[   36.952936] [<8011fb64>] (kernel_thread) from [<8013803c>] (call_usermodehelper_exec_work+0x58/0xe8)
+[   36.952945] [<8013803c>] (call_usermodehelper_exec_work) from [<8013bdb0>] (process_one_work+0x23c/0x518)
+[   36.952953] [<8013bdb0>] (process_one_work) from [<8013ce88>] (worker_thread+0x60/0x5b8)
+[   36.952961] [<8013ce88>] (worker_thread) from [<8014290c>] (kthread+0x16c/0x174)
+[   36.952969] [<8014290c>] (kthread) from [<801010ac>] (ret_from_fork+0x14/0x28)
+[   36.952973] Exception stack(0xb68d1fb0 to 0xb68d1ff8)
+[   36.952978] 1fa0:                                     00000000 00000000 00000000 00000000
+[   36.952984] 1fc0: 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000
+[   36.952989] 1fe0: 00000000 00000000 00000000 00000000 00000013 00000000
+[   36.961135] [+] process: sshd
+[   36.961148] CPU: 3 PID: 584 Comm: sshd Tainted: G         C        4.19.127-v7+ #4
+[   36.961151] Hardware name: BCM2835
+[   36.961173] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   36.961184] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   36.961195] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   36.961203] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   36.961211] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   36.961216] Exception stack(0xb3209fa8 to 0xb3209ff0)
+[   36.961221] 9fa0:                   76f10dd8 00000000 01200011 00000000 00000000 00000000
+[   36.961228] 9fc0: 76f10dd8 00000000 0000000a 00000078 00000000 769f1000 76f11230 0000000d
+[   36.961232] 9fe0: 76f10d70 7ea5cd30 7694675c 76946788
+[   36.974338] [+] process: bash
+[   36.974353] CPU: 1 PID: 587 Comm: bash Tainted: G         C        4.19.127-v7+ #4
+[   36.974356] Hardware name: BCM2835
+[   36.974379] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   36.974390] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   36.974401] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   36.974409] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   36.974418] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   36.974421] Exception stack(0xb333dfa8 to 0xb333dff0)
+[   36.974427] dfa0:                   76f60238 00000000 01200011 00000000 00000000 00000000
+[   36.974434] dfc0: 76f60238 00000000 00102f60 00000078 00000000 76ed8000 76f60690 00f9d3d0
+[   36.974438] dfe0: 76f601d0 7ea59160 76e2d75c 76e2d788
+[   37.075845] [+] process: bash
+[   37.075861] CPU: 1 PID: 587 Comm: bash Tainted: G         C        4.19.127-v7+ #4
+[   37.075863] Hardware name: BCM2835
+[   37.075886] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   37.075897] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   37.075909] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   37.075916] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   37.075925] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   37.075929] Exception stack(0xb333dfa8 to 0xb333dff0)
+[   37.075935] dfa0:                   76f60238 00000000 01200011 00000000 00000000 00000000
+[   37.075941] dfc0: 76f60238 00000000 00102f60 00000078 00000000 76ed8000 76f60690 00fe6230
+[   37.075946] dfe0: 76f601d0 7ea584a0 76e2d75c 76e2d788
+[   37.077522] [+] process: bash
+[   37.077535] CPU: 0 PID: 589 Comm: bash Tainted: G         C        4.19.127-v7+ #4
+[   37.077538] Hardware name: BCM2835
+[   37.077560] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   37.077571] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   37.077582] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   37.077593] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   37.077602] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   37.077606] Exception stack(0xb3337fa8 to 0xb3337ff0)
+[   37.077612] 7fa0:                   76f60238 00000000 01200011 00000000 00000000 00000000
+[   37.077618] 7fc0: 76f60238 00000000 00102f60 00000078 00000000 76ed8000 76f60690 00fb2128
+[   37.077623] 7fe0: 76f601d0 7ea58330 76e2d75c 76e2d788
+[   37.084770] [+] process: bash
+[   37.084783] CPU: 0 PID: 587 Comm: bash Tainted: G         C        4.19.127-v7+ #4
+[   37.084785] Hardware name: BCM2835
+[   37.084807] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   37.084818] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   37.084829] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   37.084837] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   37.084846] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   37.084849] Exception stack(0xb333dfa8 to 0xb333dff0)
+[   37.084855] dfa0:                   76f60238 00000000 01200011 00000000 00000000 00000000
+[   37.084862] dfc0: 76f60238 00000000 00102f60 00000078 00000000 76ed8000 76f60690 00f9e680
+[   37.084866] dfe0: 76f601d0 7ea58d98 76e2d75c 76e2d788
+[   37.087301] [+] process: bash
+[   37.087315] CPU: 3 PID: 591 Comm: bash Tainted: G         C        4.19.127-v7+ #4
+[   37.087317] Hardware name: BCM2835
+[   37.087340] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   37.087350] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   37.087361] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   37.087369] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   37.087378] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   37.087382] Exception stack(0xb3201fa8 to 0xb3201ff0)
+[   37.087388] 1fa0:                   76f60238 00000000 01200011 00000000 00000000 00000000
+[   37.087394] 1fc0: 76f60238 00000000 00102f60 00000078 00000000 76ed8000 76f60690 01019100
+[   37.087399] 1fe0: 76f601d0 7ea57de0 76e2d75c 76e2d788
+[   37.088540] [+] process: bash
+[   37.088552] CPU: 2 PID: 592 Comm: bash Tainted: G         C        4.19.127-v7+ #4
+[   37.088555] Hardware name: BCM2835
+[   37.088576] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   37.088586] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   37.088598] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   37.088605] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   37.088614] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   37.088618] Exception stack(0xb688ffa8 to 0xb688fff0)
+[   37.088624] ffa0:                   76f60238 00000000 01200011 00000000 00000000 00000000
+[   37.088630] ffc0: 76f60238 00000000 00102f60 00000078 00000000 76ed8000 76f60690 00fb49c0
+[   37.088635] ffe0: 76f601d0 7ea57c70 76e2d75c 76e2d788
+[   37.094797] [+] process: bash
+[   37.094809] CPU: 3 PID: 591 Comm: bash Tainted: G         C        4.19.127-v7+ #4
+[   37.094812] Hardware name: BCM2835
+[   37.094833] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   37.094844] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   37.094855] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   37.094863] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   37.094871] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   37.094875] Exception stack(0xb3201fa8 to 0xb3201ff0)
+[   37.094881] 1fa0:                   76f60238 00000000 01200011 00000000 00000000 00000000
+[   37.094887] 1fc0: 76f60238 00000000 00102f60 00000078 00000000 76ed8000 76f60690 01018978
+[   37.094892] 1fe0: 76f601d0 7ea58528 76e2d75c 76e2d788
+[   37.095382] [+] process: bash
+[   37.095395] CPU: 3 PID: 591 Comm: bash Tainted: G         C        4.19.127-v7+ #4
+[   37.095398] Hardware name: BCM2835
+[   37.095413] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   37.095423] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   37.095438] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   37.095450] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   37.095460] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   37.095463] Exception stack(0xb3201fa8 to 0xb3201ff0)
+[   37.095469] 1fa0:                   76f60238 00000000 01200011 00000000 00000000 00000000
+[   37.095475] 1fc0: 76f60238 00000000 00102f60 00000078 00000000 76ed8000 76f60690 010189a8
+[   37.095480] 1fe0: 76f601d0 7ea58528 76e2d75c 76e2d788
+[   37.104299] [+] process: bash
+[   37.104313] CPU: 0 PID: 587 Comm: bash Tainted: G         C        4.19.127-v7+ #4
+[   37.104316] Hardware name: BCM2835
+[   37.104338] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   37.104350] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   37.104361] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   37.104369] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   37.104377] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   37.104381] Exception stack(0xb333dfa8 to 0xb333dff0)
+[   37.104387] dfa0:                   76f60238 00000000 01200011 00000000 00000000 00000000
+[   37.104394] dfc0: 76f60238 00000000 00102f60 00000078 00000000 76ed8000 76f60690 001042a8
+[   37.104398] dfe0: 76f601d0 7ea58c10 76e2d75c 76e2d788
+[   37.109997] [+] process: bash
+[   37.110011] CPU: 0 PID: 587 Comm: bash Tainted: G         C        4.19.127-v7+ #4
+[   37.110013] Hardware name: BCM2835
+[   37.110035] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   37.110046] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   37.110057] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   37.110065] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   37.110074] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   37.110078] Exception stack(0xb333dfa8 to 0xb333dff0)
+[   37.110084] dfa0:                   76f60238 00000000 01200011 00000000 00000000 00000000
+[   37.110090] dfc0: 76f60238 00000000 00102f60 00000078 00000000 76ed8000 76f60690 00000000
+[   37.110095] dfe0: 76f601d0 7ea58650 76e2d75c 76e2d788
+[   38.712420] [+] process: bash
+[   38.712444] CPU: 0 PID: 587 Comm: bash Tainted: G         C        4.19.127-v7+ #4
+[   38.712449] Hardware name: BCM2835
+[   38.712484] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   38.712504] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   38.712524] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   38.712539] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   38.712555] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   38.712562] Exception stack(0xb333dfa8 to 0xb333dff0)
+[   38.712574] dfa0:                   76f60238 00000000 01200011 00000000 00000000 00000000
+[   38.712587] dfc0: 76f60238 00000000 00102f60 00000078 00000000 76ed8000 76f60690 00000000
+[   38.712596] dfe0: 76f601d0 7ea57908 76e2d75c 76e2d788
+[   38.717519] [+] process: bash
+[   38.717539] CPU: 0 PID: 587 Comm: bash Tainted: G         C        4.19.127-v7+ #4
+[   38.717544] Hardware name: BCM2835
+[   38.717580] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   38.717605] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   38.717625] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   38.717641] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   38.717657] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   38.717664] Exception stack(0xb333dfa8 to 0xb333dff0)
+[   38.717675] dfa0:                   76f60238 00000000 01200011 00000000 00000000 00000000
+[   38.717688] dfc0: 76f60238 00000000 00102f60 00000078 00000000 76ed8000 76f60690 7ea57d4c
+[   38.717697] dfe0: 76f601d0 7ea579e8 76e2d75c 76e2d788
+[   40.129383] [+] process: bash
+[   40.129407] CPU: 0 PID: 587 Comm: bash Tainted: G         C        4.19.127-v7+ #4
+[   40.129412] Hardware name: BCM2835
+[   40.129446] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   40.129466] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   40.129486] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   40.129501] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   40.129517] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   40.129524] Exception stack(0xb333dfa8 to 0xb333dff0)
+[   40.129535] dfa0:                   76f60238 00000000 01200011 00000000 00000000 00000000
+[   40.129548] dfc0: 76f60238 00000000 00102f60 00000078 00000000 76ed8000 76f60690 001042a8
+[   40.129557] dfe0: 76f601d0 7ea597f0 76e2d75c 76e2d788
+[   41.944427] [+] process: bash
+[   41.944451] CPU: 0 PID: 587 Comm: bash Tainted: G         C        4.19.127-v7+ #4
+[   41.944456] Hardware name: BCM2835
+[   41.944492] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   41.944511] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   41.944531] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   41.944546] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   41.944562] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   41.944569] Exception stack(0xb333dfa8 to 0xb333dff0)
+[   41.944581] dfa0:                   76f60238 00000000 01200011 00000000 00000000 00000000
+[   41.944593] dfc0: 76f60238 00000000 00102f60 00000078 00000000 76ed8000 76f60690 00000000
+[   41.944602] dfe0: 76f601d0 7ea57908 76e2d75c 76e2d788
+[   41.949318] [+] process: bash
+[   41.949338] CPU: 0 PID: 587 Comm: bash Tainted: G         C        4.19.127-v7+ #4
+[   41.949343] Hardware name: BCM2835
+[   41.949378] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   41.949398] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   41.949418] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   41.949434] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   41.949450] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   41.949457] Exception stack(0xb333dfa8 to 0xb333dff0)
+[   41.949468] dfa0:                   76f60238 00000000 01200011 00000000 00000000 00000000
+[   41.949481] dfc0: 76f60238 00000000 00102f60 00000078 00000000 76ed8000 76f60690 7ea57d4c
+[   41.949490] dfe0: 76f601d0 7ea579e8 76e2d75c 76e2d788
+[   41.960849] [+] process: systemd-journal
+[   41.960871] CPU: 2 PID: 125 Comm: systemd-journal Tainted: G         C        4.19.127-v7+ #4
+[   41.960877] Hardware name: BCM2835
+[   41.960913] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   41.960932] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   41.960952] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   41.960967] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   41.960983] [<8011fc14>] (sys_clone) from [<801011a4>] (__sys_trace_return+0x0/0x1c)
+[   41.960990] Exception stack(0xb78f9fa8 to 0xb78f9ff0)
+[   41.961002] 9fa0:                   72dfc368 7e891fac 003d0f00 72dfbe38 72dfc368 72dfc7c0
+[   41.961015] 9fc0: 72dfc368 7e891fac 76fb44d0 00000078 7e891faa 72dfc300 00000000 7e891ff4
+[   41.961023] 9fe0: 003d0f00 7e891f38 767f7180 76f06558
+[   42.681350] [+] process: bash
+[   42.681372] CPU: 0 PID: 587 Comm: bash Tainted: G         C        4.19.127-v7+ #4
+[   42.681377] Hardware name: BCM2835
+[   42.681413] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   42.681432] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   42.681452] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   42.681467] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   42.681483] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   42.681491] Exception stack(0xb333dfa8 to 0xb333dff0)
+[   42.681502] dfa0:                   76f60238 00000000 01200011 00000000 00000000 00000000
+[   42.681515] dfc0: 76f60238 00000000 00102f60 00000078 00000000 76ed8000 76f60690 001042a8
+[   42.681524] dfe0: 76f601d0 7ea597f0 76e2d75c 76e2d788
+[   45.565582] [+] process: bash
+[   45.565606] CPU: 0 PID: 587 Comm: bash Tainted: G         C        4.19.127-v7+ #4
+[   45.565611] Hardware name: BCM2835
+[   45.565646] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   45.565666] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   45.565686] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   45.565701] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   45.565717] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   45.565724] Exception stack(0xb333dfa8 to 0xb333dff0)
+[   45.565736] dfa0:                   76f60238 00000000 01200011 00000000 00000000 00000000
+[   45.565749] dfc0: 76f60238 00000000 00102f60 00000078 00000000 76ed8000 76f60690 7ea588bc
+[   45.565758] dfe0: 76f601d0 7ea58558 76e2d75c 76e2d788
+[   46.930888] [+] process: bash
+[   46.930910] CPU: 0 PID: 587 Comm: bash Tainted: G         C        4.19.127-v7+ #4
+[   46.930915] Hardware name: BCM2835
+[   46.930951] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   46.930970] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   46.930990] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   46.931006] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   46.931022] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   46.931029] Exception stack(0xb333dfa8 to 0xb333dff0)
+[   46.931041] dfa0:                   76f60238 00000000 01200011 00000000 00000000 00000000
+[   46.931054] dfc0: 76f60238 00000000 00102f60 00000078 00000000 76ed8000 76f60690 7ea588bc
+[   46.931063] dfe0: 76f601d0 7ea58558 76e2d75c 76e2d788
+[   48.163226] [+] process: bash
+[   48.163247] CPU: 0 PID: 587 Comm: bash Tainted: G         C        4.19.127-v7+ #4
+[   48.163253] Hardware name: BCM2835
+[   48.163288] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   48.163308] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   48.163328] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   48.163343] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   48.163360] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   48.163367] Exception stack(0xb333dfa8 to 0xb333dff0)
+[   48.163379] dfa0:                   76f60238 00000000 01200011 00000000 00000000 00000000
+[   48.163391] dfc0: 76f60238 00000000 00102f60 00000078 00000000 76ed8000 76f60690 7ea588bc
+[   48.163400] dfe0: 76f601d0 7ea58558 76e2d75c 76e2d788
+[   51.059580] [+] process: bash
+[   51.059602] CPU: 0 PID: 587 Comm: bash Tainted: G         C        4.19.127-v7+ #4
+[   51.059607] Hardware name: BCM2835
+[   51.059642] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   51.059662] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   51.059682] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   51.059697] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   51.059713] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   51.059720] Exception stack(0xb333dfa8 to 0xb333dff0)
+[   51.059732] dfa0:                   76f60238 00000000 01200011 00000000 00000000 00000000
+[   51.059744] dfc0: 76f60238 00000000 00102f60 00000078 00000000 76ed8000 76f60690 7ea588bc
+[   51.059753] dfe0: 76f601d0 7ea58558 76e2d75c 76e2d788
+[   51.555924] [+] process: bash
+[   51.555947] CPU: 0 PID: 587 Comm: bash Tainted: G         C        4.19.127-v7+ #4
+[   51.555952] Hardware name: BCM2835
+[   51.555987] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   51.556007] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   51.556027] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   51.556042] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   51.556058] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   51.556065] Exception stack(0xb333dfa8 to 0xb333dff0)
+[   51.556076] dfa0:                   76f60238 00000000 01200011 00000000 00000000 00000000
+[   51.556089] dfc0: 76f60238 00000000 00102f60 00000078 00000000 76ed8000 76f60690 7ea588bc
+[   51.556098] dfe0: 76f601d0 7ea58558 76e2d75c 76e2d788
+[   51.739754] [+] process: bash
+[   51.739777] CPU: 0 PID: 587 Comm: bash Tainted: G         C        4.19.127-v7+ #4
+[   51.739782] Hardware name: BCM2835
+[   51.739818] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   51.739838] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   51.739858] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   51.739873] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   51.739889] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   51.739896] Exception stack(0xb333dfa8 to 0xb333dff0)
+[   51.739908] dfa0:                   76f60238 00000000 01200011 00000000 00000000 00000000
+[   51.739920] dfc0: 76f60238 00000000 00102f60 00000078 00000000 76ed8000 76f60690 7ea588bc
+[   51.739929] dfe0: 76f601d0 7ea58558 76e2d75c 76e2d788
+[   51.744929] [+] process: sshd
+[   51.744958] [+][debug] message [F:insert_wq_barrier, L:2542]: caller:(flush_work+0x1c/0x20)
+[   58.399982] [+] process: cron
+[   58.400003] CPU: 0 PID: 356 Comm: cron Tainted: G         C        4.19.127-v7+ #4
+[   58.400008] Hardware name: BCM2835
+[   58.400043] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   58.400062] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   58.400082] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   58.400097] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   58.400113] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   58.400121] Exception stack(0xb57a9fa8 to 0xb57a9ff0)
+[   58.400132] 9fa0:                   76f36288 00000000 01200011 00000000 00000000 00000000
+[   58.400145] 9fc0: 76f36288 00000000 01fb30e8 00000078 00000000 76ea6000 76f366e0 00000002
+[   58.400154] 9fe0: 76f36220 7ef77c80 76dfb75c 76dfb788
+[   58.414071] [+] process: kworker/u8:2
+[   58.414093] CPU: 3 PID: 151 Comm: kworker/u8:2 Tainted: G         C        4.19.127-v7+ #4
+[   58.414098] Hardware name: BCM2835
+[   58.414119] Workqueue: events_unbound call_usermodehelper_exec_work
+[   58.414150] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   58.414169] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   58.414189] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   58.414204] [<8011f780>] (_do_fork) from [<8011fb64>] (kernel_thread+0x3c/0x44)
+[   58.414219] [<8011fb64>] (kernel_thread) from [<8013803c>] (call_usermodehelper_exec_work+0x58/0xe8)
+[   58.414237] [<8013803c>] (call_usermodehelper_exec_work) from [<8013bdb0>] (process_one_work+0x23c/0x518)
+[   58.414253] [<8013bdb0>] (process_one_work) from [<8013ce88>] (worker_thread+0x60/0x5b8)
+[   58.414268] [<8013ce88>] (worker_thread) from [<8014290c>] (kthread+0x16c/0x174)
+[   58.414283] [<8014290c>] (kthread) from [<801010ac>] (ret_from_fork+0x14/0x28)
+[   58.414290] Exception stack(0xb68d1fb0 to 0xb68d1ff8)
+[   58.414299] 1fa0:                                     00000000 00000000 00000000 00000000
+[   58.414311] 1fc0: 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000
+[   58.414321] 1fe0: 00000000 00000000 00000000 00000000 00000013 00000000
+[   58.427720] [+] process: kworker/u8:2
+[   58.427740] CPU: 3 PID: 151 Comm: kworker/u8:2 Tainted: G         C        4.19.127-v7+ #4
+[   58.427745] Hardware name: BCM2835
+[   58.427767] Workqueue: events_unbound call_usermodehelper_exec_work
+[   58.427797] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   58.427817] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   58.427836] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   58.427852] [<8011f780>] (_do_fork) from [<8011fb64>] (kernel_thread+0x3c/0x44)
+[   58.427867] [<8011fb64>] (kernel_thread) from [<8013803c>] (call_usermodehelper_exec_work+0x58/0xe8)
+[   58.427884] [<8013803c>] (call_usermodehelper_exec_work) from [<8013bdb0>] (process_one_work+0x23c/0x518)
+[   58.427901] [<8013bdb0>] (process_one_work) from [<8013ce88>] (worker_thread+0x60/0x5b8)
+[   58.427915] [<8013ce88>] (worker_thread) from [<8014290c>] (kthread+0x16c/0x174)
+[   58.427930] [<8014290c>] (kthread) from [<801010ac>] (ret_from_fork+0x14/0x28)
+[   58.427937] Exception stack(0xb68d1fb0 to 0xb68d1ff8)
+[   58.427947] 1fa0:                                     00000000 00000000 00000000 00000000
+[   58.427958] 1fc0: 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000
+[   58.427968] 1fe0: 00000000 00000000 00000000 00000000 00000013 00000000
+[   58.442884] [+] process: kworker/u8:2
+[   58.442904] CPU: 3 PID: 151 Comm: kworker/u8:2 Tainted: G         C        4.19.127-v7+ #4
+[   58.442910] Hardware name: BCM2835
+[   58.442931] Workqueue: events_unbound call_usermodehelper_exec_work
+[   58.442962] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   58.442981] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   58.443001] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   58.443016] [<8011f780>] (_do_fork) from [<8011fb64>] (kernel_thread+0x3c/0x44)
+[   58.443031] [<8011fb64>] (kernel_thread) from [<8013803c>] (call_usermodehelper_exec_work+0x58/0xe8)
+[   58.443049] [<8013803c>] (call_usermodehelper_exec_work) from [<8013bdb0>] (process_one_work+0x23c/0x518)
+[   58.443065] [<8013bdb0>] (process_one_work) from [<8013ce88>] (worker_thread+0x60/0x5b8)
+[   58.443080] [<8013ce88>] (worker_thread) from [<8014290c>] (kthread+0x16c/0x174)
+[   58.443095] [<8014290c>] (kthread) from [<801010ac>] (ret_from_fork+0x14/0x28)
+[   58.443102] Exception stack(0xb68d1fb0 to 0xb68d1ff8)
+[   58.443112] 1fa0:                                     00000000 00000000 00000000 00000000
+[   58.443124] 1fc0: 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000
+[   58.443133] 1fe0: 00000000 00000000 00000000 00000000 00000013 00000000
+[   58.457226] [+] process: cron
+[   58.457249] CPU: 1 PID: 611 Comm: cron Tainted: G         C        4.19.127-v7+ #4
+[   58.457254] Hardware name: BCM2835
+[   58.457289] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   58.457308] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   58.457329] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   58.457344] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   58.457361] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   58.457368] Exception stack(0xb7a13fa8 to 0xb7a13ff0)
+[   58.457380] 3fa0:                   76f36288 00000000 01200011 00000000 00000000 00000000
+[   58.457392] 3fc0: 76f36288 00000000 00000000 00000078 00000000 76ea6000 76f366e0 01fb3070
+[   58.457401] 3fe0: 76f36220 7ef763b0 76dfb75c 76dfb788
+[   58.463292] [+] process: sh
+[   58.463314] CPU: 0 PID: 615 Comm: sh Tainted: G         C        4.19.127-v7+ #4
+[   58.463319] Hardware name: BCM2835
+[   58.463352] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   58.463370] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   58.463388] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   58.463403] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   58.463419] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   58.463426] Exception stack(0xb33dbfa8 to 0xb33dbff0)
+[   58.463437] bfa0:                   76f61998 00000000 01200011 00000000 00000000 00000000
+[   58.463450] bfc0: 76f61998 00000000 00000000 00000078 00000000 76f1e000 76f61df0 00024414
+[   58.463459] bfe0: 76f61930 7e8b8a68 76e7375c 76e73788
+[   58.470907] [+] process: run-parts
+[   58.470927] CPU: 0 PID: 616 Comm: run-parts Tainted: G         C        4.19.127-v7+ #4
+[   58.470932] Hardware name: BCM2835
+[   58.470964] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   58.470983] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   58.471002] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   58.471017] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   58.471036] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   58.471042] Exception stack(0xb33e9fa8 to 0xb33e9ff0)
+[   58.471054] 9fa0:                   76f86998 00000000 01200011 00000000 00000000 00000000
+[   58.471067] 9fc0: 76f86998 00000000 00000000 00000078 00000000 76f43000 76f86df0 01c4172b
+[   58.471076] 9fe0: 76f86930 7ee07a98 76e9875c 76e98788
+[   58.475531] [+] process: fake-hwclock
+[   58.475551] CPU: 2 PID: 617 Comm: fake-hwclock Tainted: G         C        4.19.127-v7+ #4
+[   58.475556] Hardware name: BCM2835
+[   58.475588] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   58.475607] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   58.475625] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   58.475640] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   58.475655] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   58.475662] Exception stack(0xb2819fa8 to 0xb2819ff0)
+[   58.475674] 9fa0:                   76fa8998 00000000 01200011 00000000 00000000 00000000
+[   58.475691] 9fc0: 76fa8998 00000000 00000000 00000078 00000000 76f65000 76fa8df0 0003855c
+[   58.475700] 9fe0: 76fa8930 7ee5aa80 76eba75c 76eba788
+[   58.477617] [+] process: fake-hwclock
+[   58.477638] CPU: 2 PID: 617 Comm: fake-hwclock Tainted: G         C        4.19.127-v7+ #4
+[   58.477643] Hardware name: BCM2835
+[   58.477677] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   58.477696] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   58.477715] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   58.477730] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   58.477750] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   58.477757] Exception stack(0xb2819fa8 to 0xb2819ff0)
+[   58.477768] 9fa0:                   76fa8998 00000000 01200011 00000000 00000000 00000000
+[   58.477781] 9fc0: 76fa8998 00000000 00000000 00000078 00000000 76f65000 76fa8df0 00024414
+[   58.477790] 9fe0: 76fa8930 7ee5aa38 76eba75c 76eba788
+[   58.481971] [+] process: fake-hwclock
+[   58.481983] CPU: 1 PID: 619 Comm: fake-hwclock Tainted: G         C        4.19.127-v7+ #4
+[   58.481986] Hardware name: BCM2835
+[   58.482011] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   58.482021] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   58.482035] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   58.482043] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   58.482051] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   58.482055] Exception stack(0xb3345fa8 to 0xb3345ff0)
+[   58.482060] 5fa0:                   76fab998 00000000 01200011 00000000 00000000 00000000
+[   58.482067] 5fc0: 76fab998 00000000 00000002 00000078 00000000 76f68000 76fabdf0 00000000
+[   58.482071] 5fe0: 76fab930 7e9928c8 76ebd75c 76ebd788
+[   58.485182] [+] process: fake-hwclock
+[   58.485193] CPU: 1 PID: 619 Comm: fake-hwclock Tainted: G         C        4.19.127-v7+ #4
+[   58.485196] Hardware name: BCM2835
+[   58.485217] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   58.485229] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   58.485240] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   58.485248] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   58.485257] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   58.485260] Exception stack(0xb3345fa8 to 0xb3345ff0)
+[   58.485266] 5fa0:                   76fab998 00000000 01200011 00000000 00000000 00000000
+[   58.485273] 5fc0: 76fab998 00000000 00000000 00000078 00000000 76f68000 76fabdf0 00024414
+[   58.485277] 5fe0: 76fab930 7e9929e8 76ebd75c 76ebd788
+[   58.489320] [+] process: kworker/u8:2
+[   58.489333] CPU: 3 PID: 151 Comm: kworker/u8:2 Tainted: G         C        4.19.127-v7+ #4
+[   58.489336] Hardware name: BCM2835
+[   58.489349] Workqueue: events_unbound call_usermodehelper_exec_work
+[   58.489368] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   58.489379] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   58.489390] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   58.489398] [<8011f780>] (_do_fork) from [<8011fb64>] (kernel_thread+0x3c/0x44)
+[   58.489405] [<8011fb64>] (kernel_thread) from [<8013803c>] (call_usermodehelper_exec_work+0x58/0xe8)
+[   58.489414] [<8013803c>] (call_usermodehelper_exec_work) from [<8013bdb0>] (process_one_work+0x23c/0x518)
+[   58.489423] [<8013bdb0>] (process_one_work) from [<8013ce88>] (worker_thread+0x60/0x5b8)
+[   58.489431] [<8013ce88>] (worker_thread) from [<8014290c>] (kthread+0x16c/0x174)
+[   58.489439] [<8014290c>] (kthread) from [<801010ac>] (ret_from_fork+0x14/0x28)
+[   58.489442] Exception stack(0xb68d1fb0 to 0xb68d1ff8)
+[   58.489447] 1fa0:                                     00000000 00000000 00000000 00000000
+[   58.489453] 1fc0: 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000
+[   58.489459] 1fe0: 00000000 00000000 00000000 00000000 00000013 00000000
+[   58.496551] [+] process: kworker/u8:2
+[   58.496563] CPU: 3 PID: 151 Comm: kworker/u8:2 Tainted: G         C        4.19.127-v7+ #4
+[   58.496566] Hardware name: BCM2835
+[   58.496580] Workqueue: events_unbound call_usermodehelper_exec_work
+[   58.496597] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   58.496608] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   58.496617] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   58.496625] [<8011f780>] (_do_fork) from [<8011fb64>] (kernel_thread+0x3c/0x44)
+[   58.496633] [<8011fb64>] (kernel_thread) from [<8013803c>] (call_usermodehelper_exec_work+0x58/0xe8)
+[   58.496642] [<8013803c>] (call_usermodehelper_exec_work) from [<8013bdb0>] (process_one_work+0x23c/0x518)
+[   58.496650] [<8013bdb0>] (process_one_work) from [<8013ce88>] (worker_thread+0x60/0x5b8)
+[   58.496657] [<8013ce88>] (worker_thread) from [<8014290c>] (kthread+0x16c/0x174)
+[   58.496666] [<8014290c>] (kthread) from [<801010ac>] (ret_from_fork+0x14/0x28)
+[   58.496669] Exception stack(0xb68d1fb0 to 0xb68d1ff8)
+[   58.496674] 1fa0:                                     00000000 00000000 00000000 00000000
+[   58.496680] 1fc0: 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000
+[   58.496685] 1fe0: 00000000 00000000 00000000 00000000 00000013 00000000
+[   58.503461] [+] process: kworker/u8:2
+[   58.503472] CPU: 3 PID: 151 Comm: kworker/u8:2 Tainted: G         C        4.19.127-v7+ #4
+[   58.503475] Hardware name: BCM2835
+[   58.503488] Workqueue: events_unbound call_usermodehelper_exec_work
+[   58.503507] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   58.503518] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   58.503529] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   58.503537] [<8011f780>] (_do_fork) from [<8011fb64>] (kernel_thread+0x3c/0x44)
+[   58.503544] [<8011fb64>] (kernel_thread) from [<8013803c>] (call_usermodehelper_exec_work+0x58/0xe8)
+[   58.503553] [<8013803c>] (call_usermodehelper_exec_work) from [<8013bdb0>] (process_one_work+0x23c/0x518)
+[   58.503562] [<8013bdb0>] (process_one_work) from [<8013ce88>] (worker_thread+0x60/0x5b8)
+[   58.503569] [<8013ce88>] (worker_thread) from [<8014290c>] (kthread+0x16c/0x174)
+[   58.503578] [<8014290c>] (kthread) from [<801010ac>] (ret_from_fork+0x14/0x28)
+[   58.503581] Exception stack(0xb68d1fb0 to 0xb68d1ff8)
+[   58.503587] 1fa0:                                     00000000 00000000 00000000 00000000
+[   58.503592] 1fc0: 00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000
+[   58.503598] 1fe0: 00000000 00000000 00000000 00000000 00000013 00000000
+[   60.972851] [+] process: bash
+[   60.972874] CPU: 0 PID: 587 Comm: bash Tainted: G         C        4.19.127-v7+ #4
+[   60.972879] Hardware name: BCM2835
+[   60.972915] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   60.972934] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   60.972954] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   60.972969] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   60.972986] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   60.972993] Exception stack(0xb333dfa8 to 0xb333dff0)
+[   60.973004] dfa0:                   76f60238 00000000 01200011 00000000 00000000 00000000
+[   60.973018] dfc0: 76f60238 00000000 00102f60 00000078 00000000 76ed8000 76f60690 7ea588bc
+[   60.973027] dfe0: 76f601d0 7ea58558 76e2d75c 76e2d788
+[   66.741272] [+] process: bash
+[   66.741294] CPU: 0 PID: 587 Comm: bash Tainted: G         C        4.19.127-v7+ #4
+[   66.741299] Hardware name: BCM2835
+[   66.741334] [<80112018>] (unwind_backtrace) from [<8010d364>] (show_stack+0x20/0x24)
+[   66.741354] [<8010d364>] (show_stack) from [<80851b54>] (dump_stack+0xd8/0x11c)
+[   66.741374] [<80851b54>] (dump_stack) from [<8011f780>] (_do_fork+0xec/0x464)
+[   66.741389] [<8011f780>] (_do_fork) from [<8011fc14>] (sys_clone+0x30/0x38)
+[   66.741405] [<8011fc14>] (sys_clone) from [<80101000>] (ret_fast_syscall+0x0/0x28)
+[   66.741412] Exception stack(0xb333dfa8 to 0xb333dff0)
+[   66.741423] dfa0:                   76f60238 00000000 01200011 00000000 00000000 00000000
+[   66.741436] dfc0: 76f60238 00000000 00102f60 00000078 00000000 76ed8000 76f60690 001042a8
+[   66.741445] dfe0: 76f601d0 7ea597f0 76e2d75c 76e2d788
